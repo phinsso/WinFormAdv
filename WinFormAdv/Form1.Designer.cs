@@ -108,6 +108,7 @@
             this.파일ToolStripMenuItem.Name = "파일ToolStripMenuItem";
             this.파일ToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
             this.파일ToolStripMenuItem.Text = "파일";
+            this.파일ToolStripMenuItem.Click += new System.EventHandler(this.파일ToolStripMenuItem_Click);
             // 
             // 새로만들기ToolStripMenuItem
             // 
@@ -348,6 +349,7 @@
             this.도움말보기ToolStripMenuItem.Name = "도움말보기ToolStripMenuItem";
             this.도움말보기ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.도움말보기ToolStripMenuItem.Text = "도움말 보기";
+            this.도움말보기ToolStripMenuItem.Click += new System.EventHandler(this.도움말보기ToolStripMenuItem_Click);
             // 
             // 피드백보내ToolStripMenuItem
             // 
