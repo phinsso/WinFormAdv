@@ -16,5 +16,15 @@ namespace WinFormAdv
         {
             InitializeComponent();
         }
+
+        private void ㅇToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void 서ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
